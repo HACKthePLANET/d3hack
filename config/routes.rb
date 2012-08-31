@@ -1,4 +1,6 @@
 D3hack::Application.routes.draw do
+  get "d3try/index"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
